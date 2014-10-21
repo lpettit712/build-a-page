@@ -1,0 +1,74 @@
+*{
+  background-color: #FDF5E6;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+
+div{
+  width: 100%;
+  text-align: center;
+}
+
+header{
+  float: top;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  float: top;
+}
+
+img{
+  width: 18%;
+  height: 3%;
+  margin: .3em;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+}
+
+ol li {
+  text-align: center;
+}
+
+nav h3{
+  display: inline-block;
+  text-align: center;
+  padding-left: 9em;
+  padding-right: 9em;
+}
+
+section{
+  float: left;
+  width: 75%;
+}
+
+table{
+  text-align: center;
+  width: 50%;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.label{
+font-weight: bold;
+}
+
+.unnumbered-list{
+  list-style-type: none;
+}
+
+.phase-header{
+  text-align: center;
+}
+
+#right{
+  float: right, top;
+  width: -25%;
+}
+
+#Running-Schedule-Header{
+  text-align: center;
+}
